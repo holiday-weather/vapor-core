@@ -1,5 +1,5 @@
 {
-    "name": "laravel/vapor-core",
+    "name": "holiday-weather/vapor-core",
     "description": "The kernel and invokation handlers for Laravel Vapor",
     "keywords": [
         "laravel",
